@@ -1,2 +1,2 @@
 #!/bin/bash
-tmp/ianafile -F 
+file /tmp/iamafile
